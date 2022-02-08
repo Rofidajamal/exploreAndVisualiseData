@@ -1,3 +1,11 @@
+"""
+Objectives 
+1. Setting up environment
+2. Loading data
+3. Exploring data
+4. Visualizing data
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
